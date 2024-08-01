@@ -1,4 +1,6 @@
-## Hi there 👋
+document.write('Olá, mundo!');
+
+Eu sou o Raavë, Raavë Aires, o príncipe nascido na névoa.
 
 <!--
 **raave-aires/raave-aires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
