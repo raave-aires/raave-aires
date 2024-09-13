@@ -28,4 +28,6 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
     <img src="https://skillicons.dev/icons?i=bootstrap" width='40' alt="BootStrap"/>
     <img src="https://skillicons.dev/icons?i=tailwindcss" width='40' alt="Tailwind"/>
     <img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/>
+    <img src="https://skillicons.dev/icons?i=supabase" width='40' alt="Supabase"/>
 </p>
+
