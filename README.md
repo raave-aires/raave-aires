@@ -12,22 +12,22 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
 
 ## 💻 Programming tools, languages and other things:
 <p> 
-    <img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/>
-    <img src="https://skillicons.dev/icons?i=vscode" width='40' alt="VS Code"/>
-    <img src="https://skillicons.dev/icons?i=git" width='40' alt="Git"/>
-    <img src="https://skillicons.dev/icons?i=md" width='40' alt="Markdown"/>
-    <img src="https://skillicons.dev/icons?i=html" width='40' alt="HTML"/>
-    <img src="https://skillicons.dev/icons?i=css" width='40' alt="CSS"/>
-    <img src="https://skillicons.dev/icons?i=javascript" width='40' alt="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=typescript" width='40' alt="TypeScript"/>
-    <img src="https://skillicons.dev/icons?i=nodejs" width='40' alt="nodejs"/>
-    <img src="https://skillicons.dev/icons?i=yarn" width='40' alt="Yarn"/>
-    <img src="https://skillicons.dev/icons?i=react" width='40' alt="React"/>
-    <img src="https://skillicons.dev/icons?i=vite" width='40' alt="Vite"/>
-    <img src="https://skillicons.dev/icons?i=nextjs" width='40' alt="Next.js"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" width='40' alt="BootStrap"/>
-    <img src="https://skillicons.dev/icons?i=tailwindcss" width='40' alt="Tailwind"/>
-    <img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/>
-    <img src="https://skillicons.dev/icons?i=supabase" width='40' alt="Supabase"/>
+    <a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>
+    <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='40' alt="VS Code"/></a>
+    <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width='40' alt="Git"/></a>
+    <a href="https://www.markdownguide.org" target="_blank"><img src="https://skillicons.dev/icons?i=md" width='40' alt="Markdown"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank"><img src="https://skillicons.dev/icons?i=html" width='40' alt="HTML"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img src="https://skillicons.dev/icons?i=css" width='40' alt="CSS"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width='40' alt="JavaScript"/></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width='40' alt="TypeScript"/></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width='40' alt="nodejs"/></a>
+    <a href="https://yarnpkg.com" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" width='40' alt="Yarn"/></a>
+    <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" width='40' alt="React"/></a>
+    <a href="https://vitejs.dev" target="_blank"><img src="https://skillicons.dev/icons?i=vite" width='40' alt="Vite"/></a>
+    <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width='40' alt="Next.js"/></a>
+    <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width='40' alt="Bootstrap"/></a>
+    <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" width='40' alt="Tailwind"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/></a>
+    <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width='40' alt="Supabase"/></a>
 </p>
 
