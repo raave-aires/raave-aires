@@ -12,6 +12,7 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
 
 ## 💻 Programming tools, languages and other things:
 <p> 
+    <img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/>
     <img src="https://skillicons.dev/icons?i=html" width='40' alt="HTML"/>
     <img src="https://skillicons.dev/icons?i=css" width='40' alt="CSS"/>
     <img src="https://skillicons.dev/icons?i=git" width='40' alt="Git"/>
