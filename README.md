@@ -10,3 +10,32 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
 - 📫 Contact: raave.aires@proton.me
 
 ## 💻 Programming tools and languages:
+<p> 
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=javascrip" width='40' alt="JavaScript"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=typescript" width='40' alt="JavaScript"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tailwindcss" width='40' alt="Tailwind"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nextjs" width='40' alt="Next.js"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vite" width='40' alt="Vite"/>
+    </a>
+    <a href="" target="_blank">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width='40' alt="BootStrap"/>
+    </a>
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" width='40' alt="React"/>
+    </a>
+    <a href="https://nodejs.org/en" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nodejs" width='40' alt="nodejs"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/>
+    </a>
+</p>
