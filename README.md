@@ -26,6 +26,5 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
     <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width='40' alt="React"/></a>
     <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width='40' alt="nodejs"/></a>
     <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/></a>
-    <a href="https://nodejs.org/en" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width='40' alt="nodejs"/></a>
     <a href="https://yarnpkg.com" target="_blank"><img src="https://skillicons.dev/icons?i=yarn" width='40' alt="Yarn"/></a>
 </p>
