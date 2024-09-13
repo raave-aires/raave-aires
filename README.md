@@ -27,7 +27,8 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
     <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width='40' alt="Next.js"/></a>
     <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width='40' alt="Bootstrap"/></a>
     <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" width='40' alt="Tailwind"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/></a>
     <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width='40' alt="Supabase"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/></a>
+    <a href="https://codepen.io" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width='40' alt="CodePen"/></a>
 </p>
 
