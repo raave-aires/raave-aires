@@ -1,7 +1,7 @@
 # Hi there! 🤙 I'm Raavë.
 I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate about JavaScript and glassmorphism.
 
-## 🧔🏻‍♂️ More about me:
+## 🧔🏻‍♂️ A few things about me:
 - 🧡 I love the Front-end! Probably because I like to see plans growing and becoming real, and in the Front-End this is so much more tangible, but anyway...
 - ❤️ I love Open Source. 
 - 🔭 I like to explore technologies and learn new things, but for now I'm focused on studying and improving myself for Front-End positions.
@@ -10,9 +10,8 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
 - 🤷🏻‍♂️ My favorite color is orange 🧡, and if I could choose magical powers, they would be Aerokinesis ☁️, Electrokinesis ⚡  and/or Magnetokinesis. I think that's a good summary of who I am. 😌 
 - 📫 Contact: raave.aires@proton.me
 
-## 💻 Programming tools, languages and other things:
+## 💻 Programming languages, frameworks and other tools:
 <p> 
-    <a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width='40' alt="VS Code"/></a>
     <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" width='40' alt="Git"/></a>
     <a href="https://www.markdownguide.org" target="_blank"><img src="https://skillicons.dev/icons?i=md" width='40' alt="Markdown"/></a>
@@ -28,7 +27,10 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
     <a href="https://getbootstrap.com" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width='40' alt="Bootstrap"/></a>
     <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwindcss" width='40' alt="Tailwind"/></a>
     <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width='40' alt="Supabase"/></a>
-    <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width='40' alt="Figma"/></a>
-    <a href="https://codepen.io" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" width='40' alt="CodePen"/></a>
+</p>
+
+### Other tech things:
+<p>
+    <a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>     <a href="https://vivaldi.com/" target="_blank"><img src="<a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>" width='40' alt="Vivaldi"/></a> 
 </p>
 
