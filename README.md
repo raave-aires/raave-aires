@@ -31,6 +31,6 @@ I, Raave, am a young brazilian 🇧🇷 Front-End developer. And I'm passionate 
 
 ### Other tech things:
 <p>
-    <a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>     <a href="https://vivaldi.com/" target="_blank"><img src="<a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>" width='40' alt="Vivaldi"/></a> 
+    <a href="https://vivaldi.com/" target="_blank"><img src="https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png" width='40' alt="Vivaldi"/></a>     <a href="https://vivaldi.com/" target="_blank"><img src="[https://vivaldi.com/wp-content/themes/vivaldicom-theme/img/press/icons/vivaldi_icon.png](https://static.wikia.nocookie.net/logopedia/images/0/0d/Firefox_logo_2019.svg/revision/latest?cb=20191026110452)" width='40' alt="Vivaldi"/></a> 
 </p>
 
