@@ -1,5 +1,7 @@
 # ¡Uy! 🤙 Yo soy Raavë.
-[Veja a versão em Português aqui.](https://github.com/raave-aires/raave-aires/blob/main/LEIAME.md)
+[Veja a versão em Português aqui](https://github.com/raave-aires/raave-aires/blob/main/LEIAME.md).
+
+[See the English version here](https://github.com/raave-aires/raave-aires/blob/main/README.md).
 ***
 Yo, Raave, soy un joven argentino-brasileño 🇦🇷🇧🇷 desarrollador Front-End. Me apasiona JavaScript y el morphing de vidrios[^1].
 
