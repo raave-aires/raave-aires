@@ -1,5 +1,5 @@
 # Hi there! 🤙 I'm Raavë.
-[Veja a versão em Português aqui](https://github.com/raave-aires/raave-aires/blob/main/LEIAME.md)
+[Veja a versão em Português aqui](https://github.com/raave-aires/raave-aires/blob/main/LEIAME.md).
 ***
 I, Raave, am a young argentine-brazilian 🇦🇷🇧🇷 Front-End developer. And I'm passionate about JavaScript and glassmorphism.
 
@@ -34,7 +34,7 @@ Things I know and things I've worked with ~~(and sorry pure CSS, SASS and Bootst
     <a href="https://supabase.com" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width='40' alt="Supabase"/></a>
 </p>
 
-### 👨🏻‍💻 Other tech things:
+### 👨🏻‍💻 Other tech stuff:
 The operating systems, browsers and other tools that I use on a daily basis.
 <p>
     <a href="https://www.microsoft.com/pt-br/software-download/windows11" target="_blank"><img src="https://skillicons.dev/icons?i=windows" width='40' alt="Windows"/></a>
